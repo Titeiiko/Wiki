@@ -1,7 +1,10 @@
 # Ping
-The ping command is a very simple command. All it does is show your connection to the srrver.
+The ping command is a very simple command. All it does is show your and others' connection to the srrver.
 
-The ability to run the ping command is for everyone. 
+The ability to run the ping command for yourself is for everyone. The ability to run the ping command for others is only for staff members with correct permissions.
 
 Ping command example:
+[GIF EXAMPLE]
+
+Others' Ping command example:
 [GIF EXAMPLE]
