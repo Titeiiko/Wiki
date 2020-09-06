@@ -1,10 +1,12 @@
-# Mobcoins
+# Mobcoin
 The mobcoin command is a very simple command that shows your mobcoin balance.
 
-The ability to turn off autopickup is only available to donators, but everyone can always autopickup. You can buy a rank on our store [here](https://store.arsentic.net).
+This command is usable by everyone.
 
-Autopickup on:
+Mobcoins can be gained by killing mobs. There is a 35% chance that you will get a mobcoin after killing a mob.
+
+Mobcoin example:
 [GIF EXAMPLE]
 
-Autopickup off:
+Gaining a Mobcoin example:
 [GIF EXAMPLE]
