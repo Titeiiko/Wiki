@@ -11,4 +11,3 @@ Here on our official wiki, you can find out about multiple different tutorials a
 If you would like to contribute to our wiki, please make a pull request on our GitHub repo [here](https://github.com/Arsentic/Wiki).
 {% endhint %}
 
-<!--- test line --->
