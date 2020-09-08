@@ -12,8 +12,6 @@
       * [Autopickup](skyblock/commands/perks/cmdautopickup.md)
       * [Trash](skyblock/commands/perks/cmdtrash.md)
       * [Vanish](skyblock/commands/perks/cmdvanish.md)
-    * [Staff](skyblock/commands/staff/README.md)
-      * [Modvanish](skyblock/commands/staff/modvanish.md)
     * [Information](skyblock/commands/information/README.md)
       * [Mobcoin](skyblock/commands/information/cmdmobcoin.md)
       * [Links](skyblock/commands/information/cmdlinks.md)
