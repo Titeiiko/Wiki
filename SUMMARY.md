@@ -3,6 +3,8 @@
 * [Hello 👋](README.md)
 * [Skyblock](skyblock/README.md)
   * [Commands](skyblock/commands/README.md)
+    * [Staff](skyblock/commands/staff/README.md)
+      * [Modvanish](skyblock/commands/staff/cmdmodvanish.md)
     * [Utilities](skyblock/commands/utilities/README.md)
       * [Ping](skyblock/commands/utilities/cmdping.md)
       * [Reload](skyblock/commands/utilities/cmdreload.md)
