@@ -5,6 +5,7 @@
   * [Commands](skyblock/commands/README.md)
     * [Information](skyblock/commands/information/README.md)
       * [Review](skyblock/commands/information/cmdreview.md)
+      * [Reviews](skyblock/commands/information/cmdreviews.md)
       * [Mobcoin](skyblock/commands/information/cmdmobcoin.md)
       * [Links](skyblock/commands/information/cmdlinks.md)
     * [Perks](skyblock/commands/perks/README.md)

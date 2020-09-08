@@ -5,3 +5,4 @@ The reviews command is a very simple command. It opens a book that shows the pla
 The ability to run this command is available to everybody.
 
 Review example: \[GIF EXAMPLE\]
+
