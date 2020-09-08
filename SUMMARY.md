@@ -4,7 +4,7 @@
 * [Skyblock](skyblock/README.md)
   * [Commands](skyblock/commands/README.md)
     * [Information](skyblock/commands/information/README.md)
-      * [Links](skyblock/commands/information/links.md)
+      * [Review](skyblock/commands/information/review.md)
       * [Mobcoin](skyblock/commands/information/cmdmobcoin.md)
       * [Links](skyblock/commands/information/cmdlinks.md)
     * [Perks](skyblock/commands/perks/README.md)
